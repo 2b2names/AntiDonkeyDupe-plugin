@@ -40,7 +40,6 @@ At no point do two copies of the same inventory exist.
 - Minecraft **1.21.4**
 - Java **21**
 
-> This plugin will NOT work on Spigot, CraftBukkit, or Forge.
 
 ---
 
