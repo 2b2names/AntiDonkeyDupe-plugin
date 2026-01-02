@@ -1,5 +1,6 @@
 name: AntiDonkeyDupe
-version: '1.0'
 main: me.tiger.antiDonkeyDupe.AntiDonkeyDupe
-api-version: '1.21'
-authors: [ 2b2t_names ]
+version: 1.0.0
+api-version: "1.21"
+author: 2b2t_names
+description: Prevent donkey/mule/llama chest dupes by virtualizing storage on entity unload/load.

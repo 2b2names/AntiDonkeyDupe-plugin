@@ -1,0 +1,17 @@
+# Which entities should be protected
+protect:
+  donkey: true
+  mule: true
+  llama: true
+
+# If true, only protect animals that are actually carrying a chest
+only-if-carrying-chest: true
+
+# If true, clears the in-entity storage on unload (recommended)
+clear-on-unload: true
+
+# If true, restore virtual inventory on load
+restore-on-load: true
+
+# Safety: if restore fails, keep entity inventory empty rather than risking dupes
+fail-closed: true
