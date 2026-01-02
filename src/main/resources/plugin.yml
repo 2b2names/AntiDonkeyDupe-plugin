@@ -1,0 +1,5 @@
+name: AntiDonkeyDupe
+version: '1.0'
+main: me.tiger.antiDonkeyDupe.AntiDonkeyDupe
+api-version: '1.21'
+authors: [ 2b2t_names ]
